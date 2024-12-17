@@ -1,0 +1,56 @@
+Factory Balls, the Christmas edition, walkthrough / solution
+Here's everything you always wanted to know about Factory Balls, the Christmas edition but were afraid to ask: it's the complete Factory Balls, the Christmas edition solution! You can play the game Factory Balls, the Christmas edition here.
+Factory Balls, the Christmas edition, the video walkthrough:
+Factory Balls, the Christmas edition, the text solution:
+In each level you need to drag a white ball over the tools to match the ball in the top right. The tools from left to right are: blue paint, red paint, orange paint, yellow paint, top Santa hat, bottom Santa hat, horizontal belt, vertical belt, right earmuffs, left earmuffs, small bobble hat, big bobble hat.
+Here are the tools to use in each level:
+
+Level 1:
+red paint, horizontal belt, yellow paint, remove horizontal belt
+
+level 2:
+orange paint, small bobble hat, blue paint, remove small bobble hat, big bobble hat, orange paint, remove big bobble hat
+
+level 3:
+blue paint, small bobble hat, red paint, remove small bobble hat, top Santa hat, orange paint, remove top Santa hat, big bobble hat, yellow paint, remove big bobble hat
+
+level 4:
+yellow paint, right earmuffs, left earmuffs, orange paint, remove left earmuffs, remove right earmuffs, horizontal belt, red paint, remove horizontal belt
+
+level 5:
+red paint, left earmuffs, yellow paint, right earmuffs, orange paint, remove right earmuffs, remove left earmuffs, top Santa hat, left earmuffs, right earmuffs, blue paint, remove right earmuffs, remove left earmuffs, remove top Santa hat
+
+level 6:
+blue paint, top Santa hat, red paint, remove top Santa hat, right earmuffs, left earmuffs, red paint, remove left earmuffs, remove right earmuffs, top Santa hat, right earmuffs, left earmuffs, blue paint, remove left earmuffs, remove right earmuffs, remove top Santa hat
+
+level 7:
+small bobble hat, bottom Santa hat, red paint, remove bottom Santa hat, remove small bobble hat, big bobble hat, orange paint, remove big bobble hat
+
+level 8:
+blue paint, horizontal belt, red paint, small bobble hat, yellow paint, remove small bobble hat, big bobble hat, red paint, remove big bobble hat, remove horizontal belt
+
+level 9:
+blue paint, small bobble hat, yellow paint, remove small bobble hat, big bobble hat, blue paint, remove big bobble hat, vertical belt, blue paint, remove vertical belt
+
+level 10:
+yellow paint, right earmuffs, left earmuffs, blue paint, remove left earmuffs, remove right earmuffs, top Santa hat, right earmuffs, left earmuffs, orange paint, remove left earmuffs, remove right earmuffs, remove top Santa hat, horizontal belt, orange paint, top Santa hat, blue paint, remove top Santa hat, remove horizontal belt
+
+level 11:
+red paint, top Santa hat, orange paint, remove top Santa hat, horizontal belt, orange paint, top Santa hat, red paint, remove top Santa hat, remove horizontal belt, vertical belt, orange paint, top Santa hat, red paint, remove top Santa hat, horizontal belt, yellow paint, top Santa hat, blue paint, remove top Santa hat, remove horizontal belt, remove vertical belt
+
+level 12:
+right earmuffs, left earmuffs, red paint, remove left earmuffs, remove right earmuffs, small bobble hat, right earmuffs, left earmuffs, yellow paint, remove left earmuffs, remove right earmuffs, horizontal belt, orange paint, remove small bobble hat, big bobble hat, red paint, remove big bobble hat, vertical belt, blue paint, remove vertical belt, remove horizontal belt
+
+level 13:
+yellow paint, small bobble hat, orange paint, horizontal belt, blue paint, remove small bobble hat, big bobble hat, red paint, remove big bobble hat, remove horizontal belt, vertical belt, small bobble hat, right earmuffs, left earmuffs, blue paint, remove left earmuffs, remove right earmuffs, remove small bobble hat, big bobble hat, red paint, remove big bobble hat, remove vertical belt
+
+level 14:
+yellow paint, top Santa hat, blue paint, remove top Santa hat, horizontal belt, blue paint, small bobble hat, yellow paint, remove small bobble hat, top Santa hat, blue paint, remove top Santa hat, big bobble hat, yellow paint, remove big bobble hat, remove horizontal belt, vertical belt, small bobble hat, red paint, remove small bobble hat, top Santa hat, orange paint, remove top Santa hat, big bobble hat, yellow paint, remove big bobble hat, remove vertical belt
+
+level 15:
+horizontal belt, red paint, small bobble hat, blue paint, remove small bobble hat, big bobble hat, red paint, remove big bobble hat, remove horizontal belt, vertical belt, orange paint, top Santa hat, yellow paint, remove top Santa hat, right earmuffs, left earmuffs, red paint, remove left earmuffs, remove right earmuffs, horizontal belt, small bobble hat, blue paint, remove small bobble hat, big bobble hat, red paint, remove big bobble hat, remove horizontal belt, remove vertical belt
+
+level 16:
+red paint, top Santa hat, blue paint, remove top Santa hat, horizontal belt, top bobble hat, orange paint, remove top bobble hat, top Santa hat, yellow paint, remove top Santa hat, big bobble hat, blue paint, remove big bobble hat, remove horizontal belt, vertical belt, left earmuffs, blue paint, remove left earmuffs, top Santa hat, left earmuffs, red paint, remove left earmuffs, remove top Santa hat, small bobble hat, right earmuffs, left earmuffs, orange paint, remove left earmuffs, remove right earmuffs, remove small bobble hat, top Santa hat, right earmuffs, left earmuffs, yellow paint, remove left earmuffs, remove right earmuffs, remove top Santa hat, big bobble hat, red paint, remove big bobble hat, remove, vertical belt
+
+Now jingle all the way! . 

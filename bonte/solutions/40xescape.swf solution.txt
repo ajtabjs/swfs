@@ -1,0 +1,123 @@
+40xEscape, walkthrough / solution:
+
+1xEscape
+Press the button next to the door 6 times.
+
+2xEscape
+Press all the ESCAPE letters above the door.
+
+3xEscape
+Press the buttons in numeric order 123456.
+
+4xEscape
+Press the first button to select the next letter and the second button to lock that letter so it stays green.
+
+5xEscape
+Press the buttons to spell the word five.
+
+6xEscape
+Wait for the green bulb to light up, to press all the ESCAPE letters.
+
+7xEscape
+Change all the ESCAPE letters to the green color.
+
+8xEscape
+Rotate the paper pieces to form the number 8.
+
+9xEscape
+Don't move with the cursor at all.
+
+10xEscape
+Press the letters to spell the word PEACE.
+
+11xEscape
+Press the buttons to spell the word eleven.
+
+12xEscape
+Click a letter and the button to lock it for each letter.
+
+13xEscape
+Enter the number of corners for each shape: 453.
+
+14xEscape
+Click the door 3 times.
+
+15xEscape
+Each letter will also light its neighbours, so click S and P.
+
+16xEscape
+Each number refers to a letter of the alphabet, so spell the word ESCAPE.
+
+17xEscape
+Change all the ESCAPE letters to the common yellow color.
+
+18xEscape
+Press and hold the button.
+
+19xEscape
+Press each of the first six buttons to select a letter and the last button to lock it each time.
+
+20xEscape
+Spell the word TWENTY.
+
+21xEscape
+Keep the cursor moving.
+
+22xEscape
+Light the segments of the LED display to form 22.
+
+23xEscape
+Each letter will also light its neighbours but not itself, so click left E, S, P, right E.
+
+24xEscape
+Each letter refers to a cardinal direction North West East South, so press n e w n e w s.
+
+25xEscape
+The letters are scrambled and form the numbers 195.
+
+26xEscape
+Press the letters to spell the words SEE PAC.
+
+27xEscape
+Click the fourth button four times.
+
+28xEscape
+Click and hold the button to light bulb after you release the button, then click the letters while the bulb is green.
+
+29xEscape
+Enter the total number of levels: 040.
+
+30xEscape
+Press the left button x times to select letter x, click the right button each time to lock the letter.
+
+31xEscape
+Same as level 24 but upside down, so press w e s e e.
+
+32xEscape
+The letters are scrambled and form the numbers 427.
+
+33xEscape
+Each letter will light its neighbours+1 but not itself, so click C and A.
+
+34xEscape
+Click the first button to light the first letter, then move it to the right with the last button and repeat.
+
+35xEscape
+Press the buttons to spell the first letter of the words one, two, three, ..., ten, so press ottffssent.
+
+36xEscape
+Click the door 4 times, but click higher each time.
+
+37xEscape
+Click the first letter once, the second letter twice, etc.
+
+38xEscape
+Light the segments of the LED display to form the word ESCAPE.
+
+39xEscape
+Press the middle button to light A, then move it to right and left with the other buttons and repeat until all are lit.
+
+40xEscape
+Press the buttons to spell 40xescape.
+Enjoy the end!
+ . 

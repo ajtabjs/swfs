@@ -1,0 +1,29 @@
+A Bonte Escape, walkthrough / solution
+Here's everything you always wanted to know about "A Bonte Escape" but were afraid to ask: it's the complete "A Bonte Escape" solution! You can play the game "A Bonte Escape" here.
+Full Moon, the video walkthrough:
+A Bonte Escape, the text solution:
+
+Take the piece of paper from under the doormat.
+Take other piece of paper from under the sofa cushion.
+Look at both pieces with the magnifying glass: they form the code 121946.
+Use this code log in on the laptop.
+Open the folder on the laptop.
+Now look for text notes in the folders:
+-you can find text notes when you pick the second folder, then the first folder and again the first folder, the note reads: "2:2".
+-you can find another text note when you pick the second folder and again the second folder, the note reads: "1:5".
+-you can find the last note when you pick the second folder, the third folder and then the first folder: "4:9".
+Leave the laptop and turn left, notice the painting with the small dots and figure of eight.
+Maybe you already noticed the safe has a four digit code? The painting hints that the third digit is an 8, the notes give you the other digits: "2:2" means the second digit is a 2, "1:5" means the first digit is a 5, "4:9" means the fourth digit is a 9.
+Go to the safe and enter the code 5289 and click the handle to open the safe.
+There's another safe inside with a colour code, go right and look at the laptop, the laptop's background is the colour code: green, orange, blue, yellow, brown.
+Enter the colour code on the second safe and click the handle: another safe with a three digit code!
+Go right, pickup the funnel from the plant, go right twice, pickup the funnel on top of the cupboard and the glass inside the cupboard.
+Go right, pickup the third tunnel from under the birdcage.
+Place the three funnels in the feeding machine to the right of the birdcage, notice the three 'balls' beneath the funnels.
+Go right, notice the three paintings of 'balls': a blue one, an orange one and a yellow one.
+Go to the water dispenser and fill the glass with water, take the glass and poor the water in the first funnel, repeat this, now the first 'ball' is blue just like in the first painting.
+Fill another glass of water and poor it in the plant next to the sofa, pick the orange, put the glass next to the juicer in the cupboard, and put the orange on the juicer to fill the glass with orange juice, poor the orange juice in the second funnel, repeat this, now the second 'ball' is orange just like in the second painting.
+The third 'ball' needs to be yellow, you can achieve this by pooring in a glass of water and a glass of orange juice.
+Now pull the red lever below to feed the bird, the bird will be happy and start twittering: "twit-twit-twit twit twit-twit-twit-twit-twit".
+This is the 3 digit code we need for the third locker: 315.
+Open the third safe, get the key and open the door with the key! . 

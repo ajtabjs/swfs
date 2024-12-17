@@ -1,0 +1,16 @@
+December 19, 2007
+a bonte games flashback: the bonte room 2
+It's that time again for another bonte games flashback post, in which I look back on a past bonte game. I often get mails from people asking me for walkthroughs for past bonte games and these flashback posts provide me the perfect excuse to write down these solutions and give some inside notes.
+
+Subject of this flashback post is the bonte room 2, which went online back in June 2006. Of course this was a follow up to the bonte room 1, with the same simple room layout and the introduction of the notoriously squeaking parrot. Let's move on to the walkthrough, so you'll definitely have to stop reading here if you haven't played the game before and don't want me to spoil the fun. Squeak!
+
+Take a left turn and grab the coin that's on top of the second parrot painting. Take another left turn and grab the ruler from the blackboard. Take another left turn and notice there's something inside the fan. Unscrew the four screws of the fan using the coin, remove the grid from the fan and block the fan using the ruler so you can grab the chipcard without cutting your fingers. Insert the chipcard into the slot of the peanuts machine and push the flashing button to get some peanuts. You could feed these to the parrot, but the parrot will just eat them ...
+Take a look at the code on the blackboard: 1,2,3underlined,2,1underlined. Notice there are 3 white and 1 red button on the fireplace. With the blackboard code you can light the fireplace, oh yes you can: the 1,2,3 digits refer to the 1st, 2nd, 3rd white button on the fireplace, the underlining refers to the fact that you have to combine the white button with the red button (with the red button you can make the white buttons stay lit). So, to light the fireplace: press first white button (1), second white button (2), red button and third white button (3underlined), red button again otherwise the next button will stay lit, second white button (2), red button and first white button (1underlined). The fireplace should be full of flames!
+Now put the grid of the fan on top of the fire in the fireplace. Makes a nice grill, not? You could grill the peanuts on the fireplace now and feed them to the bird, but the parrot will again just eat them, we're still missing something to make the peanuts really tasty :)
+Grab the ruler that's still blocking the fan and use it to reach the niche under the fireplace: you'll find a piece of metal wire. Try to stab the cactus with the wire: it's too blunt. Put the wire into the fan, it'll slice the wire sharp. Stab the cactus with it to produce some delicious cactus milk :) Put the peanuts in the cactus milk for that extra flavour :) now roast them on the fireplace and feed them to the parrot. He'll so love his cactus flavoured roasted peanuts, that he'll throw you a key out of his cage! Of course the key opens the door!
+As a bonus you can go and watch the parrot squeaking at you as you click it :)
+
+I hope you enjoy these bonte games flashbacks and please feel free to leave your comments! I'll keep on flashing back in the next weeks but of course there'll be new bonte games as well!
+
+Posted by Bart
+Labels: bartbonte, bontegames, bonteroom . 

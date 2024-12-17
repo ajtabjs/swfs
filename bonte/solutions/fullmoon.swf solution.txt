@@ -1,0 +1,43 @@
+Full Moon, walkthrough / solution
+Here's everything you always wanted to know about Full Moon but were afraid to ask: it's the complete Full Moon solution! You can play the game Full Moon here.
+Full Moon, the video walkthrough:
+Full Moon, the text solution:
+
+Level 1:
+Click the "play" button, then click the rabbit 4 times to reach the carrot.
+
+Level 2:
+Click the owl 3 times, then wait until the owl falls asleep again before you click the pear.
+
+Level 3:
+Click on each lightbulb in order from left to right, but skip the 4th (red) one.
+
+Level 4:
+Click the tree 3 times to drop a leaf into the water and quickly click the acorn, so the acorn will be carried across the water on the leaf. Then click the rock to lift it and let the acorn reach the rabbit.
+
+Level 5:
+Keep the mouse pointer over the balloon until the rabbit reaches the apple.
+
+Level 6:
+Drag and drop the large rock on the left platform, and the small rock on the right platform.
+
+Level 7:
+Light all the lightbulbs on the wheel except the 2 red ones. You can turn the wheel by dragging it.
+
+Level 8:
+Find the spot on three where no owls appear. It's in between the left and right owl, and in between the top and bottom owl, in the upper left part of the tree. The spot is clickable.
+
+Level 9:
+Move all the owls to the left, then click on the first 3 owls in order to light the first 3 bulbs. (When the owls bounce without moving, that triggers the lights.) Then move the rightmost three owls back to the left, and light the 2 other lights.
+
+Level 10:
+Drag the 2 clouds to the left and quickly click the apple.
+
+Level 11:
+Light the lightbulbs that are under an owl's open eye. Don't light the other ones.
+
+Level 12:
+This is a sort of upside-down Towers Of Hanoi: always make sure the lightest rabbit is at the bottom. Move the smallest rabbit all the way to the right, then move the medium one to the middle. Move the small rabbit all the way back to the left so you can move the medium one all the way right. Then bring the smallest one back so he hangs on the medium one, from there you can move the big rabbit right one space. Move the little one all the way left, then position the medium rabbit in the middle so he hangs on the big rabbit. Then move the little rabbit all the way right, the medium one one space left, and the little one all the way left one last time. Then click the big rabbit and he'll reach the pear.
+
+Level 13:
+You need to turn all the lights on. You can do this for example by clicking in the first and last row lights 2, 5, 8, 11, 14, 17, and 19. If you make an error you can reset all the lights by clicking the owl. Enjoy the end! . 

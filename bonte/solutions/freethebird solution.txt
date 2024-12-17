@@ -1,0 +1,10 @@
+July 07, 2008
+a bonte games flashback: free the bird
+With some new bonte games to arrive in the near future, I have a little catch up to do on the bonte games flashback posts, in which I look back on a past bonte game. I often get mails from people asking me for solutions or walkthroughs for past bonte games and these flashback posts give me the perfect excuse to write down these solutions and give some inside notes.
+
+So let's have a look at free the bird this time, which was released in August 2006 as an entry for the first JayIsGames game design competition. The goal of the competition was to create a small puzzle in just a month time. I came up with a one screen puzzle featuring the notoriously squeaking parrot from the bonte room2 and a cuckoo clock and the obvious task to give the bird back its freedom. Let's continue with the walkthrough, so you'll definitely have to stop reading here if you haven't played the game before and don't want me to spoil your fun. Squeak!
+
+So here it is: everything you always wanted to know about free the bird, but were afraid to ask: as you click around a bit you'll find out that the only thing you really can play around with is the time of the cuckoo clock with the strings at the bottom: two to adjust the hour, two to adjust the minutes. The right handle of the clock doesn't seem to do anything (yet), the left one produces a cuckoo sound, but no cuckoo (yet) ... What time could we set on the clock? Well how about the actual time on your computer? So have a look in the right bottom of your computer screen and adjust the time of the cuckoo clock to the current time. Now try the left handle on the clock: there's the cuckoo! Move the right handle, try the left handle again: the cuckoo comes out in a different angle! Find the right handle position so the cuckoo will snap the wire attached to the cage. Now snap the wire a couple of times. Congratulations, you freed the bird :) Attention: when the system time changes during this process, you'll have to change the cuckoo time as well to make the cuckoo come out of the clock again.
+
+Posted by Bart
+Labels: bartbonte, bontegames . 

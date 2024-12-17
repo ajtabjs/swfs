@@ -1,0 +1,12 @@
+May 06, 2009
+a bonte games flashback: seen on screen
+Time for a little travel back into time with a bonte games flashback post. I often get mails from people asking me for solutions or walkthroughs for past bonte games and these flashback posts give me the perfect excuse to write these solutions down.
+
+So let's have a look at seen on screen this time, which was released in September 2006. With this game I wanted to create a different kind of puzzle than the traditional escape the room puzzles I had done so far.
+So I dragged my old Commodore Amiga monitor from the attic to create the spinning screen and created some puzzles to solve on the screen.
+
+Now let's continue with the solution of the game, so you'll definitely have to stop reading here if you haven't played seen on screen before and don't want me to spoil your fun!
+Level 1: simply hit the 'touch me' button, can it be any simpler? (although you better remember the text on this button for later.); Level 2: which button to click? the last one!; Level 3: click the fish, blub!; Level 4: did you already notice you can flip the monitor screen by clicking on the left or right border of the monitor? Well, make it flip left, then right, then click the ok button; Level 5: click the numbers in ascending (up) order 1 2 3 4 5; Level 6: stop the 9 spinning screens, a possible solution is to click the middle one, then the 4 corner ones; Level 7: remember level1? click T O U C H M E; Level 8: when you click two pieces in this puzzle, they switch places, the goal is to form a big fish; numbering the pieces from left to right and top to bottom, a possible solution is then to click the following pairs: 8 5,1 8,11 6,9 7,1 9,10 1,2 10,11 12,4 2,4 3; Level 9: click the 3 fishes, blubblubblub!; Level 10: click the level number (this), so click 1 0; Level 11: did you notice there is a serial number on the back of the monitor (SN)? so click 1 0 0 4 5; Level 12: click the current time on your computer, so if it's for example 25 minutes past 2 in the afternoon, click 1 4 2 5; Level 13: click the letters in descending alphabetical order (DOWN) two times (DOUBLE), so click W O N D W O N D; Level 14: 99 in binary, so click 1 1 0 0 0 1 1; Level 15: catch the 6 fishes! That's it! Well done!
+
+Posted by Bart
+Labels: bartbonte, bontegames  . 
